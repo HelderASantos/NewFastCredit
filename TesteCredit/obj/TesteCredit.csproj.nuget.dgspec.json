@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/helders/Documents/TesteCredit/TesteCredit/TesteCredit.csproj": {}
+    "/Users/helders/Documents/testeHubert/NewFastCredit/TesteCredit/TesteCredit.csproj": {}
   },
   "projects": {
-    "/Users/helders/Documents/TesteCredit/TesteCredit/TesteCredit.csproj": {
+    "/Users/helders/Documents/testeHubert/NewFastCredit/TesteCredit/TesteCredit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/helders/Documents/TesteCredit/TesteCredit/TesteCredit.csproj",
+        "projectUniqueName": "/Users/helders/Documents/testeHubert/NewFastCredit/TesteCredit/TesteCredit.csproj",
         "projectName": "TesteCredit",
-        "projectPath": "/Users/helders/Documents/TesteCredit/TesteCredit/TesteCredit.csproj",
+        "projectPath": "/Users/helders/Documents/testeHubert/NewFastCredit/TesteCredit/TesteCredit.csproj",
         "packagesPath": "/Users/helders/.nuget/packages/",
-        "outputPath": "/Users/helders/Documents/TesteCredit/TesteCredit/obj/",
+        "outputPath": "/Users/helders/Documents/testeHubert/NewFastCredit/TesteCredit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/helders/.config/NuGet/NuGet.Config"

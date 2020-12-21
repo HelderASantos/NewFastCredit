@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UGap0w0DHJXX3aq9JhcHkAPBMWvAuXtipgqbTCW2lHkrClG6lWsnM/b91pAS5ay6lIZsNPxZowTWfMXMrIKoxQ==",
+  "dgSpecHash": "aAFMxqbSzDwuTFybyVc2i+tiur3tvlzQK/JB7AlHc6sIL//9k8UVw2CaOpcnkxuq8+h2mCsBie5KM/gVOCzkbg==",
   "success": true,
-  "projectFilePath": "/Users/helders/Documents/TesteCredit/TesteCredit/TesteCredit.csproj",
+  "projectFilePath": "/Users/helders/Documents/testeHubert/NewFastCredit/TesteCredit/TesteCredit.csproj",
   "expectedPackageFiles": [
     "/Users/helders/.nuget/packages/dapper/2.0.78/dapper.2.0.78.nupkg.sha512",
     "/Users/helders/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.1.10/microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
